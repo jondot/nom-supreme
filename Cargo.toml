@@ -13,7 +13,7 @@ repository = "https://github.com/Lucretiel/nom-supreme"
 
 [dependencies]
 memchr = "2.3.4"
-nom = ">=6.0.1, <8.0.0"
+nom = ">=7.0.0, <8.0.0"
 brownstone = "3.0.0"
 
 # Used for printing errors
